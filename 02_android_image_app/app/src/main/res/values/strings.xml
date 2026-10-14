@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Lab01 이미지</string>
-    <string name="app_title">Lab01 · 이미지 출력 앱</string>
-    <string name="image_description">샘플 풍경 이미지</string>
-    <string name="image_caption">ImageView로 drawable 이미지 1장을 출력했습니다.</string>
-</resources>

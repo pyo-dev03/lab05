@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab05 계산기</string>
+    <string name="app_title">Lab05 · 사칙연산 앱</string>
+    <string name="hint_a">첫 번째 숫자</string>
+    <string name="hint_b">두 번째 숫자</string>
+    <string name="clear">지우기 (C)</string>
+    <string name="result_label">계산 결과</string>
+    <string name="result_placeholder">숫자 2개를 입력하고 연산 버튼을 누르세요</string>
+    <string name="history_label">계산 기록</string>
+    <string name="error_input">숫자를 올바르게 입력하세요</string>
+    <string name="error_empty">숫자를 입력하세요</string>
+    <string name="error_number">숫자가 아닙니다</string>
+    <string name="divide_by_zero_note">  (0으로 나누면 0)</string>
+</resources>
